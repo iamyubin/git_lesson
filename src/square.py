@@ -1,6 +1,7 @@
 def square(x):
     """
-    takes a value and returns the squared value.
+    Takes a value and returns the squared value,
+    Uses the ** operator.
     """
     return x**2
 print(square(4))
