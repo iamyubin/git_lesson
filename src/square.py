@@ -2,5 +2,5 @@ def square(x):
     """
     takes a value and returns the squared value.
     """
-    return x**2
-print(square(5))
+    return x ** 2
+print(square(6))
